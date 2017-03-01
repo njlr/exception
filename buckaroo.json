@@ -1,0 +1,10 @@
+{
+  "name": "boost-exception",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-core": "1.63.0",
+    "boost-utility": "1.63.0",
+    "boost-assert": "1.63.0",
+    "boost-tuple": "1.63.0"
+  }
+}
